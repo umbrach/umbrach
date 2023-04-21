@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://denys-barabanov-portfolio.netlify.app/" target="_blank">Denys</a> 
+<h1 align="center">Hi there, I'm <a href="https://denys-barabanov-portfolio.netlify.app/" target="_blank">Denys Barabanov</a> 
 <h3 align="center"> Full Stack Developer </h3>
 
 - 🤝 Let me indroduce myself <a href="https://drive.google.com/file/d/1i5BPnsPc48gSIsLR09bprZE9coj1qi1D/view" target="_blank">in my Resume<a/> or <a href="https://denys-barabanov-portfolio.netlify.app/" target="_blank">on Webpage<a/>

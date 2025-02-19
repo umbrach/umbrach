@@ -3,7 +3,7 @@
 
 - 🤝 Let me indroduce myself <a href="https://drive.google.com/file/d/1i5BPnsPc48gSIsLR09bprZE9coj1qi1D/view" target="_blank">in my Resume<a/> or <a href="https://denys-barabanov-portfolio.netlify.app/" target="_blank">on Webpage<a/>
   
-- 👨‍ I'm currently working on my new **PET project** & learning **TypeScript, Next.js, Vue.js, MySQL**
+- 👨‍ I'm currently working on my new **PET project** & learning **TypeScript, Next.js, MySQL**
 
 
   
@@ -44,7 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="42" alt="bash logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="42" alt="trello logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
 </div>
   
